@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Higher Ground",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T01:44:06.328465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Higher (feat. iann dior)",
+      "artist": "Clean Bandit feat. iann dior",
+      "has_synced": true,
+      "path": "select/01_Higher_(feat._iann_dior)_Clean_Bandit_feat._iann_dior.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Higher Love",
+      "artist": "Kygo feat. Whitney Houston",
+      "has_synced": true,
+      "path": "select/02_Higher_Love_Kygo_feat._Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Higher Ground (Prelude)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/03_Higher_Ground_(Prelude)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Higher Ground (Bonus Track 2)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/04_Higher_Ground_(Bonus_Track_2)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Higher Ground (Prelude) (Bouns Track 1)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/05_Higher_Ground_(Prelude)_(Bouns_Track_1)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Higher (fea. Lil Eddie)",
+      "artist": "Yellow Claw",
+      "has_synced": true,
+      "path": "select/06_Higher_(fea._Lil_Eddie)_Yellow_Claw.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Higher (feat. Lil Eddie)",
+      "artist": "Yellow Claw",
+      "has_synced": true,
+      "path": "select/07_Higher_(feat._Lil_Eddie)_Yellow_Claw.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Higher N Higher (feat. Karlae)",
+      "artist": "Lil Keed feat. Karlae",
+      "has_synced": true,
+      "path": "select/08_Higher_N_Higher_(feat._Karlae)_Lil_Keed_feat._Karlae.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Higher N Higher (feat. Karlae)",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/09_Higher_N_Higher_(feat._Karlae)_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Higher Ground",
+      "artist": "ODESZA feat. Naomi Wild",
+      "has_synced": true,
+      "path": "select/10_Higher_Ground_ODESZA_feat._Naomi_Wild.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Higher Ground (Feat. Naomi Wild)",
+      "artist": "Odesza",
+      "has_synced": true,
+      "path": "select/11_Higher_Ground_(Feat._Naomi_Wild)_Odesza.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Higher",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/12_Higher_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Higher",
+      "artist": "Orión",
+      "has_synced": false,
+      "path": "select/13_Higher_Orión.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Higher",
+      "artist": "Orion",
+      "has_synced": false,
+      "path": "select/14_Higher_Orion.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Higher Than the Sun - Higher Than the Orb Mix",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/15_Higher_Than_the_Sun_-_Higher_Than_the_Orb_Mix_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Get Higher",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/16_Get_Higher_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Higher Than the Sun (A Dub Symphony in Two Parts)",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/17_Higher_Than_the_Sun_(A_Dub_Symphony_in_Two_Parts)_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Higher Than the Sun (A Dub Symphony in Two Parts)",
+      "artist": "Primal Scream Jah Wobble",
+      "has_synced": false,
+      "path": "select/18_Higher_Than_the_Sun_(A_Dub_Symphony_in_Two_Parts)_Primal_Scream_Jah_Wobble.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Higher Than the Sun (Live At The Zepp)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/19_Higher_Than_the_Sun_(Live_At_The_Zepp)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Higher Than the Sun",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/20_Higher_Than_the_Sun_Primal_Scream.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Higher Ground",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_Higher_Ground_Imagine_Dragons.txt"
+    }
+  ]
+}
